@@ -1,0 +1,12 @@
+[submodule "resources/cmsis-svd"]
+	path = resources/cmsis-svd
+	url = git@github.com:posborne/cmsis-svd.git
+[submodule "tools"]
+	path = tools
+	url = https://bitbucket.org/nuttx/tools
+[submodule "apps"]
+	path = apps
+	url = git@github.com:FSRH/nuttx-apps.git
+[submodule "nuttx"]
+	path = nuttx
+	url = git@github.com:FSRH/nuttx.git
