@@ -10,3 +10,6 @@
 [submodule "nuttx"]
 	path = nuttx
 	url = git@github.com:FSRH/nuttx.git
+[submodule "PX4-Firmware"]
+	path = PX4-Firmware
+	url = git@github.com:PX4/Firmware.git
